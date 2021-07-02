@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/node14/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "declaration": true,
+    "declarationMap": true,
+    "lib": ["dom"],
+    "noImplicitReturns": true,
+    "outDir": "dist",
+    "sourceMap": true
+  },
+  "exclude": [
+    "./test", "./dist"]
+}
