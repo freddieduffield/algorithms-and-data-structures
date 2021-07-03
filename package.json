@@ -1,7 +1,7 @@
 {
   "name": "algorithms-and-data-structures",
   "version": "1.0.0",
-  "description": "algorithms and data structure learning in TypeScript",
+  "description": "algorithms and data structures in TypeScript",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
