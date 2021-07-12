@@ -19,4 +19,4 @@ simple search - (100 items, 100 guesses) Linear Time: O(n)
 
 binary search -  (100 items, 7 guesses) Log time O(log n)
 
-![](assets/O-log-n.png)
+![](../../assets/O-log-n.png)
